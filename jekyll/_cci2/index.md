@@ -32,12 +32,12 @@ Use the tutorials, samples, how-to, and reference documentation to learn CircleC
     <p>Check out our convenience images, packages of config (orbs), and sample config files.</p>
     <ul>
       <li><a href="/docs/2.0/circleci-images/">Pre-built CircleCI Docker Images</a></li>
-        <li><a href="/docs/2.0/orbs-intro/">Orbs Introduction</a></li>
+        <li><a href="/docs/2.0/orb-intro/">Orbs Introduction</a></li>
         <li><a href="/docs/2.0/sample-config/">Sample config.yml Files</a></li>
         <li><a href="/docs/2.0/language-python/">Python</a></li>
         <li><a href="/docs/2.0/language-android/">Android</a></li>
         <li><a href="/docs/2.0/language-javascript/">JavaScript</a></li>
-      <li><a href="/docs/2.0/language-Ruby/">Ruby</a></li>
+      <li><a href="/docs/2.0/language-ruby/">Ruby</a></li>
       </ul>
   </div>
   <div class="col-xs-12 col-sm-6">
